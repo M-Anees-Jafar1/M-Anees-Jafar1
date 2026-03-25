@@ -1,6 +1,6 @@
 # Hi, I'm Jafar Ali 👋
 
-🎓 Computer Science Student  
+🎓 BSCS 4th Semester Student  
 💻 Learning Python & Machine Learning  
 📊 Built House Price Prediction Model  
 
@@ -8,6 +8,10 @@
 
 ## 🚀 Skills
 - Python
+- Numpy
+- Pandas
+- Matplotlib
+- Scikit_learn
 - Machine Learning
 - SQL
 
