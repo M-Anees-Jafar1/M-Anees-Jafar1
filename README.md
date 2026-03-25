@@ -1,4 +1,30 @@
-## Hi there 👋
+# Hi, I'm Jafar Ali 👋
+
+🎓 Computer Science Student  
+💻 Learning Python & Machine Learning  
+📊 Built House Price Prediction Model  
+
+---
+
+## 🚀 Skills
+- Python
+- Machine Learning
+- SQL
+
+---
+
+## 📌 Projects
+- 🏠 House Price Prediction
+
+---
+
+## 📫 Contact
+- GitHub: https://github.com/M-Anees-Jafar1
+
+---
+
+## ⚡ Fun Fact
+I am learning coding step by step and building real projects 🚀
 
 <!--
 **M-Anees-Jafar1/M-Anees-Jafar1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
