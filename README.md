@@ -24,6 +24,8 @@
 
 ## 📫 Contact
 - GitHub: https://github.com/M-Anees-Jafar1
+- linkedin.com/in/muhammad-anees-jafar-ba9194343
+- muhammadaneesjafar@gmail.com
 
 ---
 
