@@ -1,6 +1,6 @@
-# Hi, I'm Jafar Ali 👋
+# Hi, I'm Muhammad Anees Jafar
 
-🎓 BSCS 4th Semester Student  
+🎓 BSCS 5th Semester Student  
 💻 Learning Python & Machine Learning  
 📊 Built House Price Prediction Model  
 
