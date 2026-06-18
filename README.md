@@ -27,12 +27,11 @@
 ---
 
 ## 📫 Contact
+ 🌐 GitHub: github.com/M-Anees-Jafar1
 
-<img src="https://cdn.simpleicons.org/github" width="18"> GitHub: https://github.com/M-Anees-Jafar1  
+💼 LinkedIn: https://www.linkedin.com/in/muhammad-anees-jafar-ba9194343/
 
-<img src="https://cdn.simpleicons.org/linkedin" width="18"> LinkedIn: https://www.linkedin.com/in/muhammad-anees-jafar-ba9194343  
-
-<img src="https://cdn.simpleicons.org/gmail" width="18"> Email: muhammadaneesjafar@gmail.com
+📧 Email: muhammadaneesjafar@gmail.com
  
 
 ---
