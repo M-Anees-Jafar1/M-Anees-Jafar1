@@ -27,12 +27,12 @@
 ---
 
 ## 📫 Contact
-- 🌐 GitHub:   https://github.com/M-Anees-Jafar1
-- 💼 LinkedIn: https://www.linkedin.com/in/muhammad-anees-jafar-ba9194343/?    lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bbqsb7i5US0SFCCi97y%2FUiQ%3D%3D
- - 📧 Email:   muhammadaneesjafar@gmail.com
- - [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/M-Anees-Jafar1)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-anees-jafar-ba9194343/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadaneesjafar@gmail.com)
+
+<img src="https://cdn.simpleicons.org/github" width="18"> GitHub: https://github.com/M-Anees-Jafar1  
+
+<img src="https://cdn.simpleicons.org/linkedin" width="18"> LinkedIn: https://www.linkedin.com/in/muhammad-anees-jafar-ba9194343  
+
+<img src="https://cdn.simpleicons.org/gmail" width="18"> Email: muhammadaneesjafar@gmail.com
  
 
 ---
