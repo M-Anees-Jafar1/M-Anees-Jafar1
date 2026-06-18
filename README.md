@@ -27,7 +27,7 @@
 ---
 
 ## 📫 Contact
- 🌐 GitHub: github.com/M-Anees-Jafar1
+ 🌐 GitHub: https://github.com/M-Anees-Jafar1
 
 💼 LinkedIn: https://www.linkedin.com/in/muhammad-anees-jafar-ai/
 
