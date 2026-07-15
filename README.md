@@ -24,6 +24,7 @@
 - 📉 End-to-End Customer Churn Prediction System
 - 🔢 MNIST Classification
 - ♻️ Garbage Classification
+- PDF-RAG-and-LoRA-FineTuning
 
 ---
 
