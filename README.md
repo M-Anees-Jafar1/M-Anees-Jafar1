@@ -13,6 +13,7 @@
 - Matplotlib
 - Scikit_learn
 - Machine Learning
+- Pytorch
 - SQL
 
 ---
